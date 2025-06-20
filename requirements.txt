@@ -1,1 +1,3 @@
-streanlit
+streamlit
+google-generativeai
+python-dotenv
